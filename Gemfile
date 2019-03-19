@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap', '~> 4.0.0'
 gem 'kaminari'
+gem 'rails-i18n'
 gem 'mini_racer'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
