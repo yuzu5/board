@@ -39,7 +39,7 @@ board
 ・Dockerを使用
 
 # References
-Herokuにデプロイ時に参考にした情報源
+Herokuへデプロイ時に参考にした情報源
 https://qiita.com/fuku_tech/items/dc6b568f7f34df10cae7
 
 Herokuにデプロイした本アプリケーションリンク
